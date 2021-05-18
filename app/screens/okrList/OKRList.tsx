@@ -96,16 +96,6 @@ class OKRList extends PureComponent<OKRListScreenProps, OkrListState> {
       });
   }
 
-  onShowHistoryPress = () => {};
-
-  onTakeTestPress = () => {};
-
-  onKnowMorePress = () => {};
-
-  onHomePress = () => {
-    this.props.navigation && this.props.navigation.popToTop();
-  };
-
   renderItem = ({item, index}: {item: OKRViewDataEntry; index: number}) => {
     return <OkrListItem item={item} index={index} />;
   };
