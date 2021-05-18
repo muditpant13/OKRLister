@@ -2,7 +2,7 @@
 
 ## Sample App for Listing, Viewing, and Filtering OKR's
 
-### An android release apk is added to the repo. Please download using [OKRLiser](https://github.com/muditpant13/OKRLister/blob/master/appRelease/app-release.apk).
+### An android release apk is added to the repo. Please download using [OKRLister Download](https://github.com/muditpant13/OKRLister/blob/master/appRelease/app-release.apk).
 
 ### Tech Stack -> React Native, Typescript
 ### Linting -> eslint, prettier, tslint
