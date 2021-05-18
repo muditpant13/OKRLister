@@ -174,7 +174,7 @@ class OKRList extends PureComponent<OKRListScreenProps, OkrListState> {
             <ProgressBar />
           </View>
         )}
-        {this.renderFilterButton()}
+        {this.state.isDataLoaded ? this.renderFilterButton() : null}
         <Modal style={styles.modalStyle} isVisible={this.state.isModalVisible}>
           <FilterListModal
             onClosePressed={this.closeFilterListModal}
