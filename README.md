@@ -26,6 +26,11 @@ yarn android or npm run android for running debug build
 - Internet Status - NetInfo
 
 ### Screenshots
+![ScreenShot](https://github.com/muditpant13/OKRLister/blob/master/screenshots/1Okr.png)
+![ScreenShot](https://github.com/muditpant13/OKRLister/blob/master/screenshots/filterOkr.png)
+![ScreenShot](https://github.com/muditpant13/OKRLister/blob/master/screenshots/filteredOkr.png)
+![ScreenShot](https://github.com/muditpant13/OKRLister/blob/master/screenshots/popupOkr.png)
+
 
 
 
